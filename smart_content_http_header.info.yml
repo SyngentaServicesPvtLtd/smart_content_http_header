@@ -1,0 +1,8 @@
+name: Smart Content HTTP Header
+type: module
+description: Reads HTTP Headers and passes them for use with smart content conditions.
+core: 8.x
+core_version_requirement: ^8 || ^9
+package: Smart Content
+dependencies:
+  - smart_content:smart_content

@@ -1,0 +1,22 @@
+{
+    "name": "drupal/smart_content_http_header",
+    "description": "Provides HTTP Header conditions for Smart Content.",
+    "type": "drupal-module",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Yasen Ivanov (yivanov)",
+            "email": "yasen.ivanov89@gmail.com",
+            "homepage": "https://www.drupal.org/u/yivanov",
+            "role": "Maintainer"
+        }
+    ],
+    "homepage": "https://drupal.org/project/smart_content_http_header",
+    "support": {
+        "issues": "https://drupal.org/project/issues/smart_content_http_header",
+        "source": "https://git.drupalcode.org/project/smart_content_http_header"
+    },
+    "require": {
+        "drupal/smart_content": "^3.0"
+    }
+}

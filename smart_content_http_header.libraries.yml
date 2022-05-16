@@ -1,0 +1,7 @@
+condition.http_response_header:
+  header: true
+  version: 1.x
+  js:
+    js/condition.http_response_header.js: {}
+  dependencies:
+    - smart_content/condition_type.standard
